@@ -33,7 +33,7 @@ logs
 *.rdb
 
 upload
-
+.vscode/
 
 
 
